@@ -19,7 +19,7 @@ theme = "hyde-hyde"
     author = "Author"
     title = "Title"
     # description = "..."
-    authorimage = "/img/hugo.png"
+    authorimage = "hugo.png" # in `static/img/` folder
     dateformat = "Jan 2, 2006"
 
     # sidebar, copyright & license
